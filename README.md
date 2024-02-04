@@ -34,3 +34,8 @@ Diabetes, a chronic condition affecting millions worldwide, requires thorough an
 
 ### Outcome:
 Through this project, we gain valuable insights into diabetes patients' characteristics and their implications. We uncover key variables contributing to diabetes diagnosis, visualize distributions and relationships, and detect outliers. Additionally, we analyze the distribution of diabetic and non-diabetic individuals across various demographic and clinical variables. This analysis provides valuable insights for understanding diabetes and informing potential interventions and management strategies.
+
+
+Owner - Nikhil Yadav
+<br>
+Nikhilyadav0536@gmail.com<br>
